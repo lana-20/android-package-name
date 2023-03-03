@@ -1,6 +1,6 @@
 # Android App Package Name - Retrieve via Terminal
 
-<img width="912" alt="Screenshot 2023-03-02 at 5 00 25 PM" src="https://user-images.githubusercontent.com/70295997/222605228-76abd18e-41ca-40ce-be6f-5650a4ea6f0b.png">
+<img width="960" alt="Screenshot 2023-03-02 at 10 15 31 PM" src="https://user-images.githubusercontent.com/70295997/222645688-6657f0d3-ad03-48d4-b662-a0a828af5407.png">
 
 With access to the app source code, the package name can be found in the *AndroidManifest.xml*. If only the compiled .apk file is available, mobile testers can use the [Android Asset Packaging Tool](https://elinux.org/Android_aapt) (**aapt**) to get the package name from the app.
 
