@@ -28,7 +28,7 @@ First start the app to ensure that it's running on the *foreground*, then execut
     mCurrentFocus=Window{2c0df8a u0
     com.my_app.standalone.test2/com.the_app.standalone.features.auth.AuthActivity}
 
-## Alternative 3 - Use <code>apkanalyzer</code> util
+## Alternative 3 - Use [<code>apkanalyzer</code>](https://developer.android.com/studio/command-line/apkanalyzer) util
 
     % apkanalyzer -h manifest application-id ./ApiDemos.apk
     io.appium.android.apis
