@@ -37,4 +37,4 @@ First start the app to ensure that it's running on the *foreground*, then execut
 
 ## Alternative 5 - Download the Apk Info app from the Play Store. Use it to view the AUT's package and activity names.
 
-<img width=300 src="https://user-images.githubusercontent.com/70295997/228139228-ff7ecc5c-3ad8-4018-80a9-70814301bb54.png"><img width=300 src="https://user-images.githubusercontent.com/70295997/228139235-d139c2f6-7fff-43db-8898-15495c3fe42d.png"><img width=300 src="https://user-images.githubusercontent.com/70295997/228139233-235e6ef3-6925-4bd2-8cb5-ca0063d7a100.png">
+<img width=200 src="https://user-images.githubusercontent.com/70295997/228139228-ff7ecc5c-3ad8-4018-80a9-70814301bb54.png"><img width=200 src="https://user-images.githubusercontent.com/70295997/228139235-d139c2f6-7fff-43db-8898-15495c3fe42d.png"><img width=200 src="https://user-images.githubusercontent.com/70295997/228139233-235e6ef3-6925-4bd2-8cb5-ca0063d7a100.png">
